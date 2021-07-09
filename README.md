@@ -7,7 +7,7 @@
 - Click on meal and see the details
 - Click on generate button and fetch & display a random meal
 
-<img src="images/titas-recipes-1.png" alt="project screenshots" width="800">
-<img src="images/titas-recipes-2.png" alt="project screenshots" width="800">
-<img src="images/titas-recipes-3.png" alt="project screenshots" width="800">
-<img src="images/titas-recipes-mobile.png" alt="project screenshots" width="400">
+<img src="images/screenshots/titas-recipes-1.png" alt="project screenshots" width="800">
+<img src="images/screenshots/titas-recipes-2.png" alt="project screenshots" width="800">
+<img src="images/screenshots/titas-recipes-3.png" alt="project screenshots" width="800">
+<img src="images/screenshots/titas-recipes-mobile.png" alt="project screenshots" width="400">
